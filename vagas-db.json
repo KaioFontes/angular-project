@@ -1,0 +1,39 @@
+{
+    "vagas" : [
+        {
+            "id":1,
+            "nome":"Desenvolvedor Junior Front end",
+            "foto":"foto1.jpg",
+            "descricao":"Trabalhar com Angular",
+            "salario": 3490.90
+        },
+        {
+            "id":2,
+            "nome":"Desenvolvedor Junior Back end",
+            "foto":"foto2.jpg",
+            "descricao":"Trabalhar com Node.j",
+            "salario": 4990.90
+        },
+        {
+            "id":3,
+            "nome":"Desenvolvedor Pleno",
+            "foto":"foto3.jpg",
+            "descricao":"Trabalhar com Pyton",
+            "salario": 7500.90
+        },
+        {
+            "id":4,
+            "nome":"Desenvolvedor Pleno Full Stack",
+            "foto":"foto4.jpg",
+            "descricao":"Trabalhar com TypeScript, JavaScript e Java",
+            "salario": 6350.90
+        },
+        {
+            "id":5,
+            "nome":"Desenvolvedor Sênior Mobile",
+            "foto":"foto5.jpg",
+            "descricao":"Trabalhar com React",
+            "salario": 9650.90
+        }
+    ]
+}
